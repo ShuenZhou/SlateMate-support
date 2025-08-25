@@ -34,8 +34,6 @@ We do not collect personal data. See our [Privacy Policy](https://shuenzhou.gith
 ## Open Source
 SlateMate uses FFmpeg and ImageMagick under the LGPL. These libraries run locally and do not send your content to external servers. Source/notice links are provided in‑app and in the repository.
 
-## Links
-- **Privacy Policy**: [https://YOURNAME.github.io/slatemate-privacy/](https://YOURNAME.github.io/slatemate-privacy/)
 
 ---
 
