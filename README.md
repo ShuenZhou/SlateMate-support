@@ -7,7 +7,7 @@ A macOS tool for automated, batch video slating.
 - Issues: [GitHub Issues](https://github.com/YOUR_GH_USERNAME/SlateMate/issues)
 
 ## Quick Help / FAQ
-- **Minimum macOS**: 14.6 or later.
+- **Minimum macOS**: 14.0 or later.
 - **Where does processing happen?** 100% on your Mac. No uploads.
 - **CSV format**: Header with `Shot` and `Submission Notes`. If missing, the first two columns are used.
 - **Why can’t I export to the same folder?** To prevent overwriting source media.
