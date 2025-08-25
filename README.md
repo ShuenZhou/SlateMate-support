@@ -30,8 +30,18 @@ Please include:
 ## Privacy
 We do not collect personal data. See our [Privacy Policy](https://shuenzhou.github.io/SlateMate-privacy/).
 
-## Open Source
-SlateMate uses FFmpeg and ImageMagick under the LGPL. These libraries run locally and do not send your content to external servers. Source/notice links are provided in‑app and in the repository.
+## Open Source Licenses
+This app bundles:
+- FFmpeg — licensed under LGPL v2.1+.  
+  License: [https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html](https://shuenzhou.github.io/SlateMate-privacy/)  
+  Project legal page: [https://ffmpeg.org/legal.html](https://ffmpeg.org/legal.html)
+
+- ImageMagick — licensed under Apache 2.0.  
+  License: [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)
+  Project license page: [https://imagemagick.org/script/license.php](https://imagemagick.org/script/license.php)
+
+Corresponding source code and build configuration for the bundled components are available upon request at [shuen.zhou@outlook.com](mailto:shuen.zhou@outlook.com).
+
 
 
 ---
