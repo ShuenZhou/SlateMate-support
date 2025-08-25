@@ -4,7 +4,6 @@ A macOS tool for automated, batch video slating.
 
 ## Contact
 - Email: [shuen.zhou@outlook.com](mailto:shuen.zhou@outlook.com)
-- Issues: [GitHub Issues](https://github.com/YOUR_GH_USERNAME/SlateMate/issues)
 
 ## Quick Help / FAQ
 - **Minimum macOS**: 14.0 or later.
